@@ -2,5 +2,5 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title> Welcome to UGS Blog Life</title>
+<h1> Welcome to UGS Blog Life</h1>
 </head>
