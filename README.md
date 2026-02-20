@@ -2,6 +2,7 @@
 <html>
 <html lang="en">
 <header>
+  <link rel="stylesheet" type="text/css" href="Style.CCS">
 <h1> Welcome to UGS Blog Post </h1>
 </header>
 <body>
