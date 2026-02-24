@@ -2,7 +2,7 @@
 <html>
 <html lang="en">
 <header>
-  <link rel="stylesheet" type="text/css" href="Style.CCS">
+  <link rel="stylesheet" href="Style.CCS">
 </header>
 <body>
   <h1 style="color:green;"> Welcome to UGS Blog Post </h1>
