@@ -2,4 +2,7 @@
 h1 {
 text-color:green;
 }
+h2 {
+text-color:red;
+}
 </style>
