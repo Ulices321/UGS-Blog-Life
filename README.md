@@ -17,7 +17,7 @@
 <body>
   <h1> Welcome to UGS Blog Post </h1>
 <h2> Post about your everyday life, a dream, or goals you want to achieve in life don't be shy to share your thoughts </h2>
- ![image alt="The planet Jupiter"](https://github.com/Ulices321/UGS-Blog-Life/blob/main/Jupiter.jpg.jpg?raw=true)
+<img src="img/Jupiter.jpg" alt="The planet Jupiter>
 </body>
 </html>
 
