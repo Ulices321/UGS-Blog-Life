@@ -23,6 +23,12 @@
 <h2> Post about your everyday life, a dream, or goals you want to achieve in life don't be shy to share your thoughts </h2>
 <img src="jupiter.jpg" alt="The planet Jupiter" height="300" width="300">
  <p class="words"> On the finale day of Earth Science class the planet Jupiter crashed down to wish us good bye</p>
+ <img src="fnaf.jpg" alt="Picture of five night's at freddy's video game" height="200" width="200">
+ <p> 
+  On Monday, May 19,2025 I beat the five nights at freddy's on my Nintend switch it was a blast.<br>
+  The last night took my a couple weeks to beat I tried doing it on my own but to no avail so I<br>
+  decided to look up stragtey guide in order to win and they work YIPEEEEEE.
+ </p>
 </body>
 </html>
 
