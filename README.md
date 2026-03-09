@@ -19,6 +19,9 @@
   <h1> Welcome to UGS Blog Post </h1>
  
 <h2> Post about your everyday life, a dream, or goals you want to achieve in life don't be shy to share your thoughts </h2>
+<ol>
+ <li> <a href="Sports.html">Sports</a> </li>
+</ol>
 
  <h3> This is my first post on this website.</h3>
 <img src="jupiter.jpg" alt="The planet Jupiter" height="300" width="300">
