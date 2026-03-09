@@ -13,7 +13,8 @@
      background-color:yellow;
      }
   .words {
-   margin-right:50px;
+   margin-right:50 px;
+   text-size: 16 px;
    }
  </style>
 </head>
