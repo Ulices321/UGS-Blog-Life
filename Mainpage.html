@@ -32,18 +32,9 @@
  <p> On the final day of Earth Science class the planet Jupiter crashed down to wish us good bye.<br>
   I'm going to miss this class it was fun and exiting big sad.
  </p>
+
  
- <h3> This is my second post on this website</h3>
- 
- <img src="fnaf.jpg" alt="Picture of five night's at freddy's video game" height="200" width="200">
- 
- <p> 
-  On Monday, May 19,2025 I beat the five nights at freddy's on my Nintend switch it was a blast.<br>
-  The last night took my a couple weeks to beat I tried doing it on my own but to no avail so I<br>
-  decided to look up stragtey guide in order to win and they work YIPEEEEEE.
- </p>
- 
- <h3> This is the third post to this website</h3>
+ <h3> This is the second post to this website</h3>
  
  <img src="Mew.jpg" alt=" Picture of the pokemon named Mew" height="250" width="250">
  
