@@ -24,6 +24,7 @@
  <li><a href="Dreams.html">Dreams</a> </li>
  <li><a href="Life.html"> Life</a> </li>
  <li><a href="Games.html"> Games</a> </li>
+ <li><a href="Art.html"> Art</a> </li>
 </ol>
 
  <h3> This is my first post on this website.</h3>
