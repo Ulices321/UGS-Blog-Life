@@ -21,6 +21,7 @@
 <h2> Post about your everyday life, a dream, or goals you want to achieve in life don't be shy to share your thoughts </h2>
 <ol>
  <li> <a href="Sports.html">Sports</a> </li>
+ <li><a href="Dreams.html">Dreams</a> </li>
 </ol>
 
  <h3> This is my first post on this website.</h3>
